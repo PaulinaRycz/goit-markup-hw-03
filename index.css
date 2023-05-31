@@ -8,6 +8,7 @@ font: 'Roboto';
 font-weight: 700;
 font-size: 18px;
 line-height: 2;
+padding-top: 20px;
 }
 .apps {
 font:'Roboto';
@@ -211,19 +212,18 @@ padding-right: 50px;
     height: 38px;
 }
 .container-services{
-width: 1200px;
+max-width: 1200px;
 padding-right: 215px;
-padding-bottom:346px ;
+padding-bottom: 94px;
 padding-left: 215px;
 }
 .figure{
     display: flex;
     flex-direction: column;
     border: 1px solid #EEEEEE;
-}
+    }
 .projects{
     display: flex;
-    flex-wrap: wrap;
     gap: 30px;
-
+    flex-wrap: wrap;
 }
