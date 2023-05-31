@@ -134,7 +134,7 @@ padding-right: 50px;
         cursor: pointer;
         background: #F5F4FA;
         border: none;
-        padding-right: 8px;
+        margin-right: 8px;
         border-radius: 4px;
 }
 .social-button .text-button:active, .text-button:hover{
@@ -164,7 +164,7 @@ padding-right: 50px;
     cursor: pointer;
     background: #F5F4FA;
     border: none;
-    padding-right: 8px;
+    margin-right: 8px;
     border-radius: 4px;
     width: 121px;
     height: 38px;
@@ -177,7 +177,7 @@ padding-right: 50px;
     cursor: pointer;
     background: #F5F4FA;
     border: none;
-    padding-right: 8px;
+    margin-right: 8px;
     border-radius: 4px;
     width: 93px;
     height: 38px;
@@ -191,7 +191,7 @@ padding-right: 50px;
     cursor: pointer;
     background: #F5F4FA;
     border: none;
-    padding-right: 8px;
+    margin-right: 8px;
     border-radius: 4px;
     width: 114px;
     height: 38px;
@@ -205,8 +205,25 @@ padding-right: 50px;
     cursor: pointer;
     background: #F5F4FA;
     border: none;
-    padding-right: 8px;
+    margin-right: 8px;
     border-radius: 4px;
     width: 91px;
     height: 38px;
+}
+.container-services{
+width: 1200px;
+padding-right: 215px;
+padding-bottom:346px ;
+padding-left: 215px;
+}
+.figure{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #EEEEEE;
+}
+.projects{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+
 }
