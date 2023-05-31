@@ -1,0 +1,128 @@
+.title { font: 'Roboto';
+    font-weight: 900;
+    color: #FFFFFF;
+background-color: #2F303A;}
+.signatures {
+color:#212121;
+font: 'Roboto';
+font-weight: 700;
+font-size: 18px;
+line-height: 2;
+}
+.apps {
+font:'Roboto';
+font-weight: 400;
+color:#757575;
+font-size: 16px;
+line-height: 1.9;
+}
+.text {
+    color:#212121;
+    font:'Roboto';
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 14px;
+    cursor:pointer;
+}
+.link{color:#212121;
+    font: 'Roboto';
+    font-weight: 500;
+    line-height: 1.1;
+    font-size: 14px;
+}
+.social-links .link:active, .link:hover { color: #2196F3;
+}
+.link2{font: 'Roboto';
+    font-weight: 500;
+color: #757575; 
+line-height: 1.1;
+font-size: 14px;
+text-decoration: none;
+}
+.social-links .link2:active, .link2:hover {
+        color: #2196F3;
+}
+.street-name{
+    font:'Roboto';
+    font-weight: 400;
+    line-height: 1.7;
+    color:#FFFFFF;
+    background: #2F303A;
+font-size: 14px;}
+.logo{ font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+color: #2196F3; }
+.logo-name{
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.2;
+}
+.logo-name-footer{
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.2;
+        background: #2F303A;
+        color:#FFFFFF;
+}
+.service-button{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 1.9;
+        color:#FFFFFF;
+        background: #2196F3;
+        border: none;
+}
+.lorem-text{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 1.1;
+        color:#212121;
+}
+.description{
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
+        color:#757575; 
+}
+.our-work{
+    font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.2;
+        color:#212121;
+}
+.name{
+    font: 'Roboto';
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.2;
+        color:#212121;
+}
+.job{
+    font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.2;
+        color:#757575;
+}
+.text-button{
+    color: #212121;
+        font: 'Roboto';
+        font-weight: 500;
+        line-height: 1.1;
+        font-size: 14px;
+        cursor: pointer;
+        background: #F5F4FA;
+        border: none;
+}
+.social-button .text-button:active, .text-button:hover{
+    background: #2196F3;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
