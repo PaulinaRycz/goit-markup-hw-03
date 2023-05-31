@@ -23,13 +23,14 @@ line-height: 1.9;
     line-height: 1.1;
     font-size: 14px;
     cursor:pointer;
+    margin-top: 32px;
 }
 .link{color:#212121;
     font: 'Roboto';
     font-weight: 500;
     line-height: 1.1;
     font-size: 14px;
-   
+    margin-top: 32px;
 }
 .social-links .link:active, .link:hover { color: #2196F3;
 }
@@ -39,6 +40,7 @@ color: #757575;
 line-height: 1.1;
 font-size: 14px;
 text-decoration: none;
+margin-top: 32px;
 }
 .social-links .link2:active, .link2:hover {
         color: #2196F3;
@@ -61,9 +63,6 @@ text-decoration: none;
         font-size: 26px;
         line-height: 1.2;
         padding-top: 24px;
-        padding-bottom: 25px;
-        padding-left: 215px;
-        padding-right: 93px;
 }
 .logo-name-footer{
     font-family: 'Raleway';
@@ -133,8 +132,13 @@ text-decoration: none;
     background: #2196F3;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
-.container-header{
+.container{
     display: flex;
+    width: 1200px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #ECECEC;
+
 }
 .social-button{
     display: flex;
@@ -142,6 +146,4 @@ text-decoration: none;
     margin-top: 94px;
     margin-bottom: 50px;
     
-} border-bottom-width: 1px;
- border-bottom-style: solid;
- border-bottom-color: #ECECEC;
+} 
