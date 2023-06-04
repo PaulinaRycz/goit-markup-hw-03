@@ -129,15 +129,14 @@ padding-right: 50px;
         font-size: 36px;
         line-height: 1.2;
         color:#212121;
+        padding-left: 480px;
         padding-top: 94px;
-        padding-left: 695px;
 }
 .name{
     font: 'Roboto';
         font-weight: 500;
         font-size: 16px;
         line-height: 1.2;
-        color:#212121;
 }
 .job{
     font-family: 'Roboto';
@@ -275,6 +274,9 @@ padding-left: 215px;
 }
 .container2{
 width: 1200px;
+padding-right: 215px;
+padding-bottom: 94px;
+padding-left: 215px;
 }
 .images{
 display: flex;
@@ -295,9 +297,9 @@ padding: 200px 452px 200px 452px;
 margin: 0 auto;
 }
 .section-lorem{
-    width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
+width: 1200px;
+padding-right: 215px;
+padding-left: 215px;
 }
 .lorem-columns{
     display: flex;
@@ -314,8 +316,10 @@ margin: 0 auto;
     margin-bottom: 0;
 }
 .what-we-do{
-    padding-top: 94px;
+    width: 1200px;
+    padding-right: 215px;
     padding-bottom: 94px;
+    padding-left: 215px;
 }
 .container-what-we-do{
   width: 1200px;
@@ -325,32 +329,22 @@ margin: 0 auto;
     justify-content: center;
     gap: 30px;
     list-style-type: none;
-    margin-left: 215px;
 } 
 .our-team{
 background: #F5F4FA;
 width: 1600px;
-}
-.team-class{
-    padding-top: 186px;
-    padding-left: 215px;
-    padding-right: 215px;
-    padding-top: 94px;
 
 }
 .images-team{
     display: flex;
     flex-wrap: wrap;
     gap: 30px;
-    padding: 0;
-    margin: 0;
-   
 }
 .image-team{
     background: #FFFFFF;
     box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
     border-radius: 0px 0px 4px 4px;
-  
+    text-align: center;
 }
 .our-work2{
     font-family: 'Roboto';
@@ -359,6 +353,13 @@ width: 1600px;
     line-height: 1.2;
     color: #212121;
     padding-top: 94px;
-    padding-left: 624px;
-   
+    padding-bottom: 50px;
+    text-align: center;
+}
+.image-work2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    list-style-type: none;
+    padding-left: 395px;
 }
